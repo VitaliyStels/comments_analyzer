@@ -15,3 +15,6 @@
 ```
     jupyter lab
 ```
+
+![prompt1](images/1.png)
+![prompt1](images/2.png)
