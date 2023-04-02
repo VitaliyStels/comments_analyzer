@@ -6,9 +6,9 @@
 ```
     pip3 install jupyterlab requests pandas beautifulsoup4 openai
 ```
-2. past valid API token(existing token was created for first run and no more available)
+2. past OpenAI API token into
 ```
-    openai.api_key = os.environ['OPENAI_API_KEY']
+    openai.api_key = 'OPENAI_API_KEY'
 ```
 
 ## Running
