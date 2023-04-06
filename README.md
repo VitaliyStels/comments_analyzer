@@ -4,7 +4,7 @@
 
 1. install required libraries
 ```
-    pip3 install jupyterlab requests pandas beautifulsoup4 openai
+    pip3 install jupyterlab requests pandas beautifulsoup4 openai telethon
 ```
 2. past OpenAI API token into
 ```
